@@ -1,0 +1,129 @@
+.login {
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 171px 511px;
+  position: relative;
+  background-color: var(--variable-collection-color-3);
+}
+
+.login .login-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 0px 51px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+  background-color: #0862ff8c;
+  border-radius: 33px;
+  border: 2px solid;
+  border-color: var(--variable-collection-color-2);
+  box-shadow: inset 0px -81px 100px -11px #6e00ff;
+}
+
+.login .frame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 67px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.login .div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.login .text-wrapper {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Roboto-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login .rectangle {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 55px;
+  background-color: #0862ff45;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #0862ff;
+}
+
+.login .group {
+  position: relative;
+  width: 180px;
+  height: 63.01px;
+}
+
+.login .rectangle-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 178px;
+  height: 63px;
+  background-color: #0862ff;
+  border-radius: 15.75px;
+}
+
+.login .text-wrapper-2 {
+  position: absolute;
+  top: 21px;
+  left: 63px;
+  font-family: "Roboto-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login .forgot-your-password {
+  position: relative;
+  align-self: stretch;
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login .span {
+  font-weight: 100;
+}
+
+.login .text-wrapper-3 {
+  font-family: "Roboto-Black", Helvetica;
+  font-weight: 900;
+}
+
+.login .text-wrapper-4 {
+  font-family: "Roboto-ExtraLight", Helvetica;
+  font-weight: 200;
+}

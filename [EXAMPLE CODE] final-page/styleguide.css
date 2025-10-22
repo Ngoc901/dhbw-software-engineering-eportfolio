@@ -1,0 +1,8 @@
+:root {
+  --variable-collection-main: rgba(255, 156, 230, 0.93);
+  --variable-collection-secondary: rgba(255, 255, 255, 1);
+  --variable-collection-color: rgba(0, 0, 0, 1);
+  --variable-collection-color-2: rgba(8, 99, 255, 1);
+  --variable-collection-color-3: rgba(42, 41, 41, 1);
+  --variable-collection-color-4: rgba(111, 0, 255, 1);
+}

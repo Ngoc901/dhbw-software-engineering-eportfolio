@@ -1,0 +1,25 @@
+# Node or build tools (if used)
+node_modules/
+
+# macOS
+.DS_Store
+
+# VS Code and JetBrains
+.vscode/
+.idea/
+
+# Python / virtual env (if any)
+venv/
+.venv/
+
+# Environment and secret files
+.env
+*.env
+
+# Exports / cache
+__pycache__/
+*.log
+*.zip
+
+# Ignore DevMode folder
+DevMode/
