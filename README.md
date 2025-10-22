@@ -20,7 +20,7 @@ We’ll build a clean login form with:
 - Input fields for Email and Password
 - A Login button
 - A small “Forgot password?” link
-- A login with GitHub button
+
 Design a simple **login page** website using **Figma**, then export it to **HTML + CSS** using the **Anima plugin**.
 
 - Use **Auto Layout** to build responsive sections
